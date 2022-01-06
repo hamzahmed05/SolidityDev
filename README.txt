@@ -1,3 +1,5 @@
+#Shared Wallet
+The shared wallet can be found in contracts -> 
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
